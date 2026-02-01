@@ -8,20 +8,18 @@ I help businesses transform through intelligent automation, scalable infrastruct
 
 ### What I Do
 
-**AI Solutions** - Building custom chatbots, RAG-based agents, and intelligent automation workflows that reduce operational costs and enhance customer experiences.
-
-**Infrastructure** - Cloud architecture on AWS/GCP, CI/CD pipelines, and scalable infrastructure provisioning using Infrastructure as Code.
-
-**Web Development** - Full-stack applications with modern JavaScript/TypeScript ecosystems, from responsive frontends to robust backend APIs.
+* **AI Solutions** - Building custom chatbots, RAG-based agents, and intelligent automation workflows that reduce operational costs and enhance customer experiences.
+* **Infrastructure** - Cloud architecture on AWS/GCP, CI/CD pipelines, and scalable infrastructure provisioning using Infrastructure as Code.
+* **Web Development** - Full-stack applications with modern JavaScript/TypeScript ecosystems, from responsive frontends to robust backend APIs.
 
 ---
 
 ### Tech Stack
 
-**Frontend:** React, Next.js, TailwindCSS, TypeScript
-**Backend:** Python, FastAPI, Node.js, Express
-**Infrastructure:** AWS, GCP, Docker, GitHub Actions, PostgreSQL, MongoDB
-**AI/ML:** LangChain, LanGraph, Bedrock, Pinecone, PGVector, S3Vector, ChromaDB
+* **Frontend:** React, Next.js, TailwindCSS, TypeScript
+* **Backend:** Python, FastAPI, Node.js, Express
+* **Infrastructure:** AWS, GCP, Docker, GitHub Actions, PostgreSQL, MongoDB
+* **AI/ML:** LangChain, LanGraph, Bedrock, Pinecone, PGVector, S3Vector, ChromaDB
 
 ---
 
