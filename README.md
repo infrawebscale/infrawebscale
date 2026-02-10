@@ -36,5 +36,5 @@ I help businesses transform through intelligent automation, scalable infrastruct
 
 Building something interesting? I'd love to hear about it.
 
-**Email:** info@infrawebscale.com
-**Website:** [infrawebscale.com](https://infrawebscale.com)
+**Email:** info@infrawebscale.com, info@rishinder.dev
+**Website:** [infrawebscale.com](https://infrawebscale.com), [rishinder.dev](https://rishinder.dev)
